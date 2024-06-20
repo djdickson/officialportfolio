@@ -9,7 +9,7 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(#1c1917 50%, #ffb92a 50%);
+    background: linear-gradient(#2d65d3 50%, #ffb92a 50%);
     max-width: 500px;
     margin: 0 auto;
     display: flex;
